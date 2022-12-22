@@ -1,5 +1,5 @@
 # Hola, mi nombre es Renzo Alessandro 👋
-### Freelance full-stack iOS & Android engineer
+### Freelance full-stack iOS & Android engineer 👨🏻‍💻
 
 Soy un joven desarrollador apasionado por los Computación Gráfica y Ciencia de Datos. Mis principales competencias son la consultoría y el desarrollo de software centrado, sobre todo, en aplicaciones iOS, Android y web. Dado que gran parte de mi carrera profesional ha estado dedicada al software empresarial, también realizo estas mismas labores aplicadas al diseño y desarrollo de backend. Poseo conocimientos sobre diseño gráfico y corporativo, los cuales aplico a la creación de UI y UX en mis aplicaciones, webs y juegos creando excelentes experiencias de usuario.
 
@@ -29,7 +29,7 @@ Y alguna más...
 [![Facebook](https://img.shields.io/badge/Facebook-@RenzoAlessandroCode-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/RenzoAlessandroCode/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Renzo_Alessandro_Sucari_Velasquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/renzoalessandrosucarivelasquez14/)
 
-## Contacto y apoyo:
+## Contacto:
 
 [![Email](https://img.shields.io/badge/renzo.sucari@ucsp.edu.pe-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:renzo.sucari@ucsp.edu.pe)
 </br>
