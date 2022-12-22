@@ -24,10 +24,10 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@renzoalessandro-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/RenzoAlessandr)
-[![Instagram](https://img.shields.io/badge/Instagram-@enzoalessandro-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/renzoalessandrocode/)
-[![Facebook](https://img.shields.io/badge/Facebook-@enzoalessandro-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/RenzoAlessandroCode/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renzo_Alessandro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/renzoalessandrosucarivelasquez14/)
+[![Twitter](https://img.shields.io/badge/Twitter-@RenzoAlessandr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/RenzoAlessandr)
+[![Instagram](https://img.shields.io/badge/Instagram-@renzoalessandrocode-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/renzoalessandrocode/)
+[![Facebook](https://img.shields.io/badge/Facebook-@RenzoAlessandroCode-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/RenzoAlessandroCode/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renzo_Alessandro_Sucari_Velasquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/renzoalessandrosucarivelasquez14/)
 
 ## Contacto y apoyo:
 
